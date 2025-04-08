@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains the implementation of TwoStageOpenMax, a two-stage approach for open set recognition (OSR) that can classify known classes accurately while detecting samples from unknown classes. Unlike traditional classification tasks limited to a closed set of classes, OSR mirrors real-world scenarios where novel classes may appear during inference.
 
-This project was developed as part of the Applied Deep Learning course at Ben-Gurion University.
+This project was developed as part of the "Applied Deep Learning" course at Ben-Gurion University, Beer Sheva, Israel.
 
 ## Authors
 - Nissim Brami
